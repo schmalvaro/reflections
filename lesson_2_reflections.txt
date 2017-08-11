@@ -15,3 +15,6 @@ What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 -Maybe you want to branch off to create an easy mode of a game you're designing
 or to try some experimental feature.
+
+How do the diagrams help you visualize the branch structure?
+-You can see where each branch is and what its parents are.
