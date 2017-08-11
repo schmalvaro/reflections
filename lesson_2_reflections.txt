@@ -6,3 +6,12 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 -Staging area is all the files that you are about to commit. Working directory
 is all the files in the directory
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+-Use 'git status' to check what's in your staging area.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+-Maybe you want to branch off to create an easy mode of a game you're designing
+or to try some experimental feature.
