@@ -24,3 +24,9 @@ diagram the way we do?
 -It combines the two branches back into one, thus interweaving all previous
 commits on both branches. We represent the diagram that way because it makes it
 explicit what happened.
+
+What are the pros and cons of Git's automatic merging vs always doing merges
+manually?
+-Auto merging pros: convenient, fast; Cons: can lead to conflicts
+-Manually merging Pros: much more clear, easier to catch problems/conflicts;
+Cons: slower
