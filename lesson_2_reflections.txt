@@ -18,3 +18,9 @@ or to try some experimental feature.
 
 How do the diagrams help you visualize the branch structure?
 -You can see where each branch is and what its parents are.
+
+What is the result of merging two branches together? Why do we represent the
+diagram the way we do?
+-It combines the two branches back into one, thus interweaving all previous
+commits on both branches. We represent the diagram that way because it makes it
+explicit what happened.
